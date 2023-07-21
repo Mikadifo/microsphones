@@ -15,6 +15,16 @@ This is not a real landing page, this is for educational purposes only. I only d
 - Webgi
 - Leva
 - Drei
+- Gsap
+- ScrollTrigger
+
+## How to run the project
+
+1. Clone the repository
+2. Download the glb version of the the 3D Model (see credits) and rename it to `microsoft_headphones.glb`
+3. Put the 3D model file in the root of the project
+4. Install depencencies with `npm i`
+5. Start dev server with `npm run dev`
 
 ## Credits
 
