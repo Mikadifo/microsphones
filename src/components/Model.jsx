@@ -48,7 +48,6 @@ const Model = (props) => {
             end: "top top",
             scrub: true,
             immediateRender: false,
-            markers: true,
           },
         })
         .to(scene.rotation, {
@@ -63,7 +62,6 @@ const Model = (props) => {
             end: "top top",
             scrub: true,
             immediateRender: false,
-            markers: true,
           },
         })
         .to(scene.position, {
@@ -78,7 +76,6 @@ const Model = (props) => {
             end: "top top",
             scrub: true,
             immediateRender: false,
-            markers: true,
           },
         })
         .to(scene.rotation, {
@@ -93,7 +90,6 @@ const Model = (props) => {
             end: "top top",
             scrub: true,
             immediateRender: false,
-            markers: true,
           },
         })
         .to(scene.position, {
@@ -108,7 +104,6 @@ const Model = (props) => {
             end: "top top",
             scrub: true,
             immediateRender: false,
-            markers: true,
           },
         })
         .to(scene.rotation, {
@@ -123,7 +118,6 @@ const Model = (props) => {
             end: "top top",
             scrub: true,
             immediateRender: false,
-            markers: true,
           },
         })
         .to(scene.position, {
@@ -138,7 +132,6 @@ const Model = (props) => {
             end: "top top",
             scrub: true,
             immediateRender: false,
-            markers: true,
           },
         })
         .to(scene.rotation, {
@@ -153,7 +146,6 @@ const Model = (props) => {
             end: "top top",
             scrub: true,
             immediateRender: false,
-            markers: true,
           },
         });
     });
