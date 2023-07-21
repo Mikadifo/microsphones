@@ -3,3 +3,8 @@
   margin-bottom: 196px;
   text-align: center;
 }
+
+a:hover {
+  background: rgba(233, 227, 240, 0.9);
+  color: #06030b;
+}
